@@ -1,0 +1,15 @@
+body{
+    color: rgb(238, 217, 217);
+    background:rgb(223, 10, 10);
+}
+
+#camera{
+    border: 2px dashed black;
+    width:350px;
+    height: 350px;
+}
+
+b{
+   font-size:22px; 
+   width:80%;
+}
